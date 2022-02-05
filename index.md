@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # AI & ML
 Studyin AI with IIITB.
 
-## WAYAHEADS
+## WAY AHEADS
 
 > WANT to make some thing relevant of my own.
 >
